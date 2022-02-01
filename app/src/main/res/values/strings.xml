@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AmpaGame</string>
+    <string name="start_game_btn">Start</string>
+    <string name="back">back</string>
+    <string name="pause">pause</string>
+    <string name="menu_panel">menu panel</string>
+    <string name="background">background</string>
+    <string name="help_menu_btn">help</string>
+    <string name="help_text">Tilt your phone to move sideways.\nTap screen to shoot.</string>
+    <string name="help">help</string>
+</resources>
